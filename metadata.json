@@ -1,0 +1,6 @@
+{
+  "name": "NSWF WikiArchitect & Encyclopedic Dossier",
+  "description": "AI Editorial & Wikipedia AfC Compliance Engine, Verified Research Ledger, and Publication-Ready MediaWiki Dossier for Nisarg Srishti Welfare Foundation (NSWF).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
